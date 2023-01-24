@@ -2,7 +2,7 @@
 <h3 font-size="20" align="center">I am currently pursuing my studies in full-stack development at Microverse.</h3>
 
 <a target="_blank" align="center">
-  <img align="center" top="500" height="300" width="700" alt="GIF" src="MASF13837.jpg">
+  <img align="center" top="500" height="300" width="400" alt="GIF" src="MASF13837.jpg">
 </a>
 
 
