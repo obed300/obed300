@@ -62,5 +62,5 @@
   &emsp;
      <a href="mailto:obamfo@st.ug.edu.gh" rel="nofollow"> <img src="icons8-gmail-logo-48.png" alt="gmail" title="gmail" width="40" height="40" style="max-width: 100%;"></a>
   &emsp;
-  	<a href="https://www.linkedin.com/in/odai-alazzeh-01546024a"><img src="icons8-linkedin-circled.gif" width="40" height="40" alt="linkedin" title="linkedin" /></a>
+  	<a href="https://www.linkedin.com/in/obed-bamfo-4b152421b/"><img src="icons8-linkedin-circled.gif" width="40" height="40" alt="linkedin" title="linkedin" /></a>
 </p>
