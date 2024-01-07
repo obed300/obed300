@@ -49,8 +49,7 @@
   &emsp;
   <a href="https://webpack.js.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original.svg" alt="webpack" title="webpack" width="40" height="40" style="max-width: 100%;"> </a>
   &emsp;
-  <a href="https://mochajs.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/4253eb6921d60a216772940978dea3a0cf2113f2f29b5545720d3b5b6960e467/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6d6f6368616a732f6d6f6368616a732d69636f6e2e737667" alt="mocha" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" title="mocha" style="max-width: 100%;"> </a>
-  &emsp;
+
 </p>
 
 <br>
