@@ -9,7 +9,7 @@
 ## Professional Summary
 - I am a proponent of utilizing software engineering as a means of problem-solving.
 - I hold a Bachelor of Science degree in Administration with a specialization in Banking and Finance.
-- I am currently available for internships or new job opportunities.
+- I am currently available for new challenges.
 - Continual learning is a core value that I strive to uphold.
 
 ## 🛠️ Areas of Expertise
